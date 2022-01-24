@@ -1,0 +1,114 @@
+HISTORIA DEL DESARROLLO DE APLICACIONES MOVILES
+
+Corrái el año 1998 cuando la compañíasueca de telecomuncaciones, Nokea, decidía incorporar una pequeña aplicación a sus móviles para que sus usuarios pudieran matar el tiempo durante las cotidianas esperas en cola del supermercado, la del autobús o en un trayecto en tren. Se trataba de la réplica de un antiguo videojuego que había causado furor en los años 70. Su nonre era 'La serpiente'. veinte años más tarde, el mundo de las aplicaciones móviles es mucho más complejo y variado. Hoy han pasdo a formar parte de  nuestra vida diaria y estamos conectados a ellas de manera casi permanente. Cómo hemos llegado a esto y qué futuro nos espera?
+
+Sim embargo espezemos por lo básico:
+
+¿QUÉ ES UNA APLICACIÓN MÓVIL?
+
+Para el tema que nos ocupa en este artículo, una aplicación móvil la podemos definir como cualquier programa informático que ejecuta tu teléfono móvil para realizar una tarea, mostrar medios de información, facilitar la comunicación, entretener o brindar un servicio.
+
+HISTORIA Y EVOLUCIÓN DE LAS APLICACIONES MÓVILES
+
+En 1987, Oliver Stone llevaba a la gran pantalla una película en la que un joven Michael Douglas encarnaba la avaricia, corrupción y falta de valores morales de un tiburón de Wall Street.
+
+Gordon Gecko, el protagonista de ‘Wall Street’, sería un icono del sueño americano. Un hombre hecho a sí mismo que compraba y vendía compañías enteras a golpe de llamada… Desde un teléfono móvil. Era la primera vez que el teléfono móvil participaba en una gran película de Hollywood.
+
+Tan solo cuatro años antes del estreno de la película, la compañía estadounidense Motorola había comenzado a comercializar el primer teléfono móvil del mercado: el Motorola DynaTAC 8000x. Su precio era de 3.995 dólares. ¡Y después nos quejamos de los precios de los nuevos iPhone!
+
+Aún quedaba mucho camino por recorrer y el teléfono móvil solo se concebía como un aparato con el que poder comunicarse desde cualquier lugar (que tuviera cobertura).
+
+LAS PRIMERAS APLICACIONES PARA ORGANIZAR EL TRABAJO
+
+Es muy complicado determinar cuál fue la primera aplicación móvil en sí o quién la creo. Realmente, varias pseudo-aplicaciones fueron apareciendo casi al mismo tiempo.
+
+Por ejemplo, a mediados de los 80, la compañía inglesa de informática, Psion, lanzó al mercado la que fue considerada primera PDA (Personal Digital Assistant) del mundo. Se llamaba Psion Organiser. No es que esta PDA fuera muy potente, pero tenía un software interno que incluía programas como un editor de texto, agenda, bloc de notas, base de datos de contactos, calculadora y otras funciones simples. De hecho, ni siquiera podías realizar o recibir llamadas con este aparato, pero sentaría las bases para las aplicaciones móviles del futuro.
+
+Siguiendo la senda del Psion Organiser, el gran Steve Jobs desarrolló el dispositivo Apple Newton, una PDA que incorporaba el sistema operativo Newton OS. Esta PDA reconocía la escritura y podía conectarse directamente a ordenadores Mac, PC y a redes de wifi, siendo la precursora de la plataforma iOS. Además, también tenía acceso a una variedad de aplicaciones de proveedores externos, como, por ejemplo, un navegador web, Pocket Quicken (una aplicación para el control de las finanzas personales) o un email de cliente.
+
+Este abuelo del iPhone se vendería entre 1993 y 1998 y, en su momento, fue un fracaso comercial ante la irrupción de equipos como la PalmPilot (1997) o los canadienses de BlackBerry (1999).
+
+Y ENTONCES... LLEGÓ "LA SERPIENTE" (la serpiente es steve job, por la manzana de apple)
+
+En diciembre de 1997, en muchos hogares del mundo, la Navidad trajo consigo un teléfono móvil que tampoco parecía que tuviera nada exageradamente innovador. Era el Nokia 6110. Sin embargo, este teléfono móvil tenía preinstalada la primera aplicación móvil de la historia que gozaría de un éxito mundial. El arrollador triunfo del juego de ‘La Serpiente’ sorprendió incluso a sus fabricantes.
+
+Ten en cuenta de que tú eras una sucesión de píxeles – cuerpo de la serpiente – que tenía que devorar otro píxel y con ello crecía en tamaño. El objetivo del juego era nunca devorar tu propio cuerpo. ¿A que suena simple? Pues millones de personas de todas las edades y procedencias se pasaron largas horas jugando a aquella aplicación móvil universal.
+
+PERO STEVE JOBS ERA QUIEN TENIA LA MANZANA DE LA TENTACION
+
+Aquella famosa serpiente devoraría billones de manzanas en sus largos años de vida – el juego sigue existiendo para gozo de los nostálgicos -, pero el amo de las manzanas no era otro que Steve Jobs.
+
+Antes, existiría un breve paso por WAP (Wireless Application Protocol), que permitiría a los usuarios el acceso a versiones reducidas de las páginas web, al utilizar el Wireless Markup Protocol en lugar del lenguaje HTTP (Hypertext Transfer Protocol). Sin embargo, esto no triunfaría, ya que los desarrolladores encontraron grandes problemas a la hora de intentar adaptar el contenido a los múltiples tipos de pantallas de móviles. De esta época nos quedó como legado poder descargar distintos tonos de llamada y fondos de pantalla.
+
+Con la llegada del nuevo milenio, comenzaron a aparecer smartphones cada vez más potentes. Y fue el 29 de junio del 2007 cuando Steve Jobs apareció en un escenario para presentar lo nunca visto hasta entonces. La joya de la corona: el iPhone.
+
+Este teléfono cambió el mundo de las aplicaciones móviles. Sabedora de ello, la compañía Apple crearía, en julio del 2008, la App Store, permitiendo a proveedores externos crear aplicaciones para ser comercializadas a través de ella. Arrancó con 500 aplicaciones en oferta. Hoy tiene más de 2 millones.
+
+El otro gigante actual de las aplicaciones móviles, Google, entró en pánico y puso su maquinaria a trabajar a destajo, consiguiendo lanzar al mercado el Android Market tan solo unos meses después de la irrupción de App Store.
+
+Se abría un mercado casi infinito de posibilidades. En oferta, todo tipo de aplicaciones móviles de usos diferentes. Millones de sucesores de ‘La Serpiente’ en la sección de juegos, organizadores de vida, vídeos, noticias…
+
+En 2009, tan solo un año tras su desembarco, la App Store de Apple alcanza el billón de descargas. Sí, con “b”. Manteniendo su desfase temporal, el Android Market de Google llegaría a esa astronómica cifra en 2010.
+
+Desde entonces, el uso y descarga de las aplicaciones móviles no ha dejado de aumentar. Pero, ¿cumplen la función para la que fueron creadas?
+
+¿PARA QUE FUERON CREADAS LA APLICACIONES MOVILES?¿CUAL ES SU FUTURO ACTUAL?¿PARA QUE SERVIRAN EN EL FUTURO?
+
+La aparición de las primeras aplicaciones móviles tenía como razón principal poder organizar el trabajo de ejecutivos y profesionales. Agendas, calculadoras, bloc de notas, editores de texto, hojas de cálculo, contactos, email, etc.
+
+Sin embargo, con el paso del tiempo, el sector del entretenimiento fue tomando protagonismo. El teléfono móvil había dejado de ser un aparato con el que hacer y recibir llamadas y mensajes de texto para transformarse es una potente máquina, equiparable a un ordenador, con la que poder llevar a cabo casi cualquier tarea diaria.
+
+Ahora, caminas por la calle y ves al 80% de la gente pendiente de su móvil. Escuchan música mientras corren o pasean; leen libros o noticias en el metro o autobús; comprueban si la meteorología les va a estropear los planes del fin de semana; disfrutan – y se enganchan – del último juego de moda… Pero, el mayor uso que le damos a nuestros teléfonos móviles, es el social.
+
+Cerca del 90% del tiempo que pasamos con el móvil lo usamos para ver aplicaciones, y de ese porcentaje, más de un tercio del tiempo lo pasamos en redes sociales o plataformas de mensajería  instantánea.
+
+Sin embargo, entre 2014 y 2018, las aplicaciones que han crecido más rápidamente son las que mejoran – y controlan – nuestra calidad de vida (apps para hacer la compra, para controlar y mejorar nuestro estado de salud, para regular la actividad deportiva…).
+
+El futuro parece traer también las aplicaciones que nos servirán para controlar coches, casas… Y focalizadas en la temida y poderosa inteligencia artificial.
+
+¿CUALES SON LAS APLICACIONES MOVILES MAS DESCARGADAS EN EL MUNDO?
+
+Ese dominio de las aplicaciones móviles de carácter social comentado anteriormente se puede ver claramente en los datos de descargas históricas aportados por las dos plataformas líderes, las de Apple y Google:
+
+App Store
+
+Facebook
+Facebook Messenger
+YouTube
+Instagram
+Whatsapp Messenger
+Google Maps
+Snapchat
+Skype
+WeChat
+QQ
+
+
+Facebook
+Whatsapp Messenger
+Instagram
+Facebook Messenger
+Clean Master – Liberador de espacio y antivirus (del desarrollador chino, Cheetah Mobile)
+YouTube
+Security Master – Antivirus (del desarrollador chino, Cheetah Mobile)
+UC Browser – Navegador y ad-blocker
+Snapchat
+Google Play Services
+La compañía de Mark Zuckerberg, Facebook, se lleva el gran premio, ya que el 81% de los usuarios de smartphones tienen descargada su aplicación social.
+
+Si fragmentamos estos datos por edades, la estadística arroja un dato muy interesante: los llamados ‘milennials’ (gente entre los 18 y 34 años de edad) tienen una aplicación favorita por encima de todas: Amazon (35%). El gigante comercial relega al segundo puesto a Gmail (30%) y al tercero a Facebook (29%).
+
+
+
+
+Antes de finalizar agrega slides para mostrar lo siguiente: 
+
+- La plataformas activas actualmente para las que vale la pena desarrollar.
+
+
+
+- Lenguajes de programación usados para programar en movil. 
+- Tipos de aplicaciones (nativas, híbridas, etc)
+- Frameworks que se pueden usar para desarrollar aplicaciones. 
+
+Por esta via sube tu presentación. En el slide de inicio coloca tus datos como estudiante con una foto tipo 2x2.. 
