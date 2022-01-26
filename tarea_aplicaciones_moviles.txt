@@ -134,6 +134,9 @@ En Axarnet ponemos a entera disposición de nuestros clientes servidores para al
 
 - Lenguajes de programación usados para programar en movil.
 
+Para llevar adelante aplicaciones móviles, podemos utilizar diferentes lenguajes de programación. Los siguientes 5 lenguajes de programación para móvil son los más demandados en el mercado:
+S
+
 
 
 - Tipos de aplicaciones (nativas, híbridas, etc)
