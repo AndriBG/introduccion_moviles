@@ -105,9 +105,37 @@ Antes de finalizar agrega slides para mostrar lo siguiente:
 
 - La plataformas activas actualmente para las que vale la pena desarrollar.
 
+Pues bien, para el desarrollo de dichas aplicaciones móviles es necesario hacer uso de las plataformas de desarrollo de apps, las cuales se pueden englobar en diferentes grupos en función de su naturaleza.
+
+Nativas
+
+Se conocen como plataformas de desarrollo nativas a aquellas que se desarrollan de modo específico para cada sistema operativo; iOS, Android o Windows Phone. De este modo, se adapta a cada SO el lenguaje de desarrollo. En el caso de iOS se utiliza Objective-C, mientras que para Android las aplicaciones se desarrollan en Java y en cuanto a Windows Phone, el lenguaje es .Net.
+
+Respecto a las ventajas de este tipo de apps es que aprovechan al máximo todas las funcionalidades de los dispositivos. Además, se pueden ejecutar offline, lo cual es un gran punto diferenciador.
+
+Claro que las plataformas de desarrollo nativas también presentan un inconveniente, y es que tanto el desarrollo como las actualizaciones de estas apps tienen un alto coste.
+
+Híbridas
+Las aplicaciones híbridas son aquellas que combinan aspectos de las apps nativas y web, en función de las necesidades concretas. Se desarrollan con los lenguajes de programación Javascript, CSS o HTML, del mismo modo  que las aplicaciones web, de modo que se adaptan a cualquier SO. Además, al igual que las aplicaciones nativas, permiten el acceso a todas las funcionalidades de los dispositivos.
+
+Multiplataforma
+Una de las opciones más demandadas por parte de los desarrolladores ya que permite reducir costes y tiempo de desarrollo. Tal y como su propio nombre señala, son aplicaciones que se adaptan de manera precisa a las diferentes plataformas de los dispositivos móviles.
+
+El único inconveniente que presentan es que los usuarios no pueden aprovechar las aplicaciones de forma completa en relación a los recursos de los teléfonos y tabletas.
+
+Web / HTML5
+Las aplicaciones web se desarrollan con los lenguajes de programación Javascript, CSS o HTML; tres de los más populares a nivel global.
+
+Este tipo de apps son compatibles y se adaptan a todos los sistemas operativos. De este modo, no es necesario desarrollar una app para cada SO como sucede con las aplicaciones nativas. Además, las aplicaciones web se adaptan de manera precisa a los navegadores móviles de los dispositivos.
+
+Con HTML5 los programadores y desarrolladores pueden crear aplicaciones basadas en la web que los usuarios pueden ejecutar desde cualquier dispositivo móvil a través del navegador web del propio terminal.
+
+En Axarnet ponemos a entera disposición de nuestros clientes servidores para almacenar las aplicaciones web. Los planes de alojamiento web Linux ofrecen un amplio abanico de características de alta gama para los proyectos más exigentes. Utilizamos discos Intel SSD para que el acceso sea ultra-rápido y nuestros servidores son propios, ubicados en España. Planes que se adaptan a todo tipo de necesidades y presupuestos.
+
+- Lenguajes de programación usados para programar en movil.
 
 
-- Lenguajes de programación usados para programar en movil. 
+
 - Tipos de aplicaciones (nativas, híbridas, etc)
 - Frameworks que se pueden usar para desarrollar aplicaciones. 
 
